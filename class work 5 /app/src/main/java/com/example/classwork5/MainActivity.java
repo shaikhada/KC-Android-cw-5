@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
                         plane.putExtra("name", ed1);
                         plane.putExtra("age", ed2);
                         plane.putExtra("hobby", ed3);
-                        plane.putExtra("imageView3", R.drawable.identification_card_icon_personal_info_data_icon_vector_28695438);
+                        plane.putExtra("imageView3", R.drawable.download);
 
                         startActivity(plane);
 
